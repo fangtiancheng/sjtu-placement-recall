@@ -1,0 +1,17 @@
+# LaTeX 中间文件
+build/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xdv
+*.synctex.gz
+
+# IDE
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
